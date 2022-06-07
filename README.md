@@ -10,3 +10,6 @@
 
 ## Follow-Up Activites
 ![Follow-Up Process Model](figures/3-process-understanding-pm-Follow-Up.drawio-1.png)
+
+### Remarks
+For a further description please to the write-up of the thesis.
